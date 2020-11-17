@@ -1,0 +1,23 @@
+h1,
+p {
+  font-family: Lato;
+}
+
+body,
+html {
+  margin: 0;
+  padding: 0;
+}
+
+.word-cloud-container {
+  background: #000000;
+  color: #ffffff;
+  width: 600px;
+  height: 400px;
+  position: relative;
+}
+
+.margin-top-left {
+  margin-top: 20px;
+  margin-left: 50px;
+}
